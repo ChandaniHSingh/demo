@@ -1,9 +1,5 @@
-Hello New README.md file
-Hello again from master
-Hello from very-bad 1
-Hello from very-bad 2
-Hello from very-bad
-Hello from very-bad
-Hello from very-bad 3
-Hello from very-bad 5
-Hiii
+#Startup Web Repo
+Thisis Repository for Showinf Git & GitHub Work
+
+#Purpose
+Sample Website with Plenty Files For Demos
